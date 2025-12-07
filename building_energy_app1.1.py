@@ -126,7 +126,7 @@ if st.button("Predict Meter Reading"):
 
         st.markdown(f"""
          <div style="
-         background-color:#f8f9fa; 
+         background-color:##f5f9ff; 
          padding:20px; 
          border-radius:10px; 
          border:1px solid #e0e0e0;
@@ -159,7 +159,7 @@ st.markdown("""
     <style>
     body {background-color:#f7f7f7;}
     h1,h2,h3{color:#004b87;}
-    .stButton>button {background-color:#ff6f00; color:white;}
+    .stButton>button {background-color:#dee2e6; color:white;}
     </style>
 """, unsafe_allow_html=True)
 
